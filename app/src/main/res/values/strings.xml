@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+    <string name="MAbuttonText">Start Your Adventure</string>
+    <string name="editTextName">Enter Your Name To Begin</string>
+    <string name="key_name">name</string>
+    <string name="page0Button1">Continue Home To Earth</string>
+    <string name="page0Button2">Stop And Investigate</string>
+</resources>
